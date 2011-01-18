@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>remote</key>
+	<dict>
+		<key>images</key>
+		<string>http://sunearth.gsfc.nasa.gov/spaceweather/FlexApp/bin-debug/config/images.xml</string>
+		<key>illustrations</key>
+		<string>http://sunearth.gsfc.nasa.gov/spaceweather/FlexApp/bin-debug/config/illustrations.xml</string>
+		<key>videos</key>
+		<string>http://sunearth.gsfc.nasa.gov/spaceweather/FlexApp/bin-debug/config/videos.xml</string>
+		<key>visualizations</key>
+		<string>http://sunearth.gsfc.nasa.gov/spaceweather/FlexApp/bin-debug/config/visualizations.xml</string>
+		<key>missions</key>
+		<string>http://sunearth.gsfc.nasa.gov/spaceweather/FlexApp/bin-debug/config/missions.xml</string>
+		<key>about</key>
+		<string>http://sunearth.gsfc.nasa.gov/spaceweather/FlexApp/bin-debug/config/about.xml</string>
+	</dict>
+	<key>local</key>
+	<dict>
+		<key>images</key>
+		<string>images.xml</string>
+		<key>illustrations</key>
+		<string>illustrations.xml</string>
+		<key>videos</key>
+		<string>videos.xml</string>
+		<key>visualizations</key>
+		<string>visualizations.xml</string>
+		<key>missions</key>
+		<string>missions.xml</string>
+		<key>about</key>
+		<string>about.xml</string>
+	</dict>
+</dict>
+</plist>

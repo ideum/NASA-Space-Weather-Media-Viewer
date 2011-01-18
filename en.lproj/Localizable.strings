@@ -1,0 +1,11 @@
+/* 
+   Localizable.strings
+   SpaceWeatherViewer
+
+   Created by James Kassemi on 6/8/10.
+   Copyright 2010 NASA/Ideum
+ */
+
+"SourceSettingsPlistLoadErrorTitle" = "Unlikely Exception";
+"SourceSettingsPlistLoadErrorMessage" = "A local settings file was not found. Please contact the developer!";
+"HTTP Error" = "HTTP Error";
